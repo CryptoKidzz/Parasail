@@ -12,7 +12,7 @@
 ## Installation
 1. Clone this repository
 ```bash
-git clone https://github.com/0x-Disciple/Parasil.git && cd Parasail
+git clone https://github.com/CryptoKidzz/Parasil.git && cd Parasail
 ```
 2. Install dependencies
 ```bash
